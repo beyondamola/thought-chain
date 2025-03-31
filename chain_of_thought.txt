@@ -1,0 +1,10 @@
+------ ENTRY ------		(1)
+Today I am testing this tiny project I wrote. If everything goes well, I'll cook up a quick UI and push it up to github. This would be my first push! Here goes nothing.			Fri Mar 28 18:26:49 2025
+
+------ ENTRY ------		(2)
+Alright, we have seem to have this program that is actually slightly more optimised. Pretty happy with how this turned out, espacially for a first project and all. Feeling happy.			Sun Mar 30 17:35:09 2025
+
+------ ENTRY ------		(3)
+Feeling introspective. I'm about to take a walk; some time to think. What did I learn this spring break? What am I going to take with me? What lessons will I take with me from today forward? What are my goals? Whats the next thing to learn and master..			Sun Mar 30 17:58:53 2025
+
+
