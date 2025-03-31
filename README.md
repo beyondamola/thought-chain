@@ -4,9 +4,9 @@
 ### personal note:
   this is my first personal project; 
   a small but serious step in taking CS more seriously; 
-  had a lot of fun.
+  had a lot of fun;
   eventually I plan to make a special visual with these nodes; 
-  first have to get the barebones working..
+  first have to get the barebones working;
   Enjoy.
 
 ## HOW IT WORKS:
