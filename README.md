@@ -2,13 +2,16 @@
  **thought-chain is a terminal based journaling system written with besboke linked-list methods to store your chain_of_thought over time...**
  
 ### personal note:
-  this is my first personal project; a small but serious step in taking CS more seriously; had a lot of fun..
-  eventually I plan to make a special visual with these nodes; first have to get the barebones working..
+  this is my first personal project; 
+  a small but serious step in taking CS more seriously; 
+  had a lot of fun.
+  eventually I plan to make a special visual with these nodes; 
+  first have to get the barebones working..
   Enjoy.
 
 ## HOW IT WORKS:
-  **Nodes store user entries as strings and can load/save them onto files. All nodes form a linked list in memory. **
-    The program includes traditional linked-list logic - handwritten, not stl.
+  **Nodes store user entries as strings and can load/save them onto files. All nodes form a linked list in memory. 
+    The program includes traditional linked-list logic - handwritten, not stl.**
     
 ## FEATURES:
   - Timestamps attached to entries at time of creation
